@@ -1,0 +1,16 @@
+
+
+*-OR: 
+|  *-please
+|  *-fix
+
+
+*-would
+*-(be|like)
+
+
+*-OR: 
+|  *-(recommend|suggest)
+|  *-(star|stars)
+|  *-(option|options)
+|  *-if

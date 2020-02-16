@@ -1,0 +1,17 @@
+
+
+*-OR: 
+|  *-want
+|  *-(download|upload|sync|synchronize|open|access|save|store|edit|delete|remove|erase|create|pay|backup|drag|drop|import|export|share|copy|paste|clip)
+|  *-(note|notes|snippet|video|photo|media|notification|pdf|document|documents|attachment|attachments|lists|list|files|widget|pages|check lists|check list|checklist|tag|tags|storage|notebook|reminder)
+
+
+*-OR: 
+|  *-add
+|  *-would
+|  *-feature
+
+
+*-OR: 
+|  *-needs
+|  *-wish

@@ -1,0 +1,12 @@
+
+
+*-SEQUENCE: 
+|  *-(however|but)
+
+
+*-SEQUENCE: 
+|  *-(not|n't)
+
+
+*-SEQUENCE: 
+|  *-(bug|bugs|crash|crashes|error|problem|fix|issue)

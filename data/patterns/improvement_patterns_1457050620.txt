@@ -1,0 +1,16 @@
+
+
+*-OR: 
+|  *-(not|n't)
+|  *-make
+|  *-VB
+
+
+*-OR: 
+|  *-reminders
+|  *-(however|but)
+|  *-ads
+
+
+*-needs
+*-DT

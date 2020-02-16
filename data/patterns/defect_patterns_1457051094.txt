@@ -1,0 +1,6 @@
+
+
+*-OR: 
+|  *-will
+|  *-(however|but)
+|  *-(not|n't)

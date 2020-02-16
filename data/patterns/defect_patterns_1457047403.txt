@@ -1,0 +1,20 @@
+
+
+*-OR: 
+|  *-(device|devices|phone|tablet|laptop|notebook|desktop|pc|iphone|galaxy s5|nexus 4|tab S10.5)
+|  *-(dropbox|ebay|evernote|mint|todoist|fitbit|the app|app|it|this app|tool)
+
+
+*-OR: 
+|  *-share
+|  *-however
+|  *-(download|upload|sync|synchronize|open|access|save|store|edit|delete|remove|erase|create|pay|backup|drag|drop|import|export|share|copy|paste|clip)
+
+
+*-after
+
+
+*-OR: 
+|  *-(android|ios|lollipop|linux|windows|blackberry|webos|mac)
+|  *-text
+|  *-support

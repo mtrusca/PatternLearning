@@ -1,0 +1,6 @@
+
+
+*-OR: 
+|  *-(however|but)
+|  *-(not|n't)
+|  *-(bug|bugs|crash|crashes|error|problem|fix|issue)

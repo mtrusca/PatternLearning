@@ -1,0 +1,23 @@
+
+
+*-OR: 
+|  *-(me|myself|i|us|we|ourselves|ourself|you)
+|  *-should
+|  *-(not|n't)
+
+
+*-OR: 
+|  *-(however|but)
+|  *-upgrade
+|  *-add
+
+
+*-OR: 
+|  *-please
+|  *-(however|but)
+|  *-feature
+
+
+*-SEQUENCE: 
+|  *-TO
+|  *-JJ

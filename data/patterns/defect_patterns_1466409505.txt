@@ -1,0 +1,10 @@
+
+
+*-OR: 
+|  *-(however|but)
+|  *-(not|n't)
+
+
+*-OR: 
+|  *-(bug|bugs|buggy|crash|crashes|crashing|error|problem|fix|issue|issues|freeze|freezes|fail|failed|failing)
+|  *-(update|updates)

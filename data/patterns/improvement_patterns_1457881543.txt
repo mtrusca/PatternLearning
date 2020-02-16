@@ -1,0 +1,11 @@
+
+
+*-(dropbox|ebay|evernote|mint|todoist|fitbit|the app|app|it|this app|tool)
+
+
+*-(note|notes|snippet|video|photo|media|notification|pdf|document|documents|attachment|attachments|lists|list|files|widget|pages|check lists|check list|checklist|tag|tags|storage|notebook|reminder)
+
+
+*-SEQUENCE: 
+|  *-please
+|  *-stop

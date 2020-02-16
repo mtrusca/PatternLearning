@@ -1,0 +1,6 @@
+
+
+*-(me|myself|i|us|we|ourselves|ourself|you)
+
+
+*-please

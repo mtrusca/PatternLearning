@@ -1,0 +1,8 @@
+
+
+*-(me|myself|i|us|we|ourselves|ourself|you)
+
+
+*-OR: 
+|  *-please
+|  *-(button|panel|toolbar|window|menu|dropdown|sidebar|screen|shortcut|hot key)

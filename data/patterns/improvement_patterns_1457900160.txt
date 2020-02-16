@@ -1,0 +1,48 @@
+
+
+*-SEQUENCE: 
+|  *-5
+|  *-stars
+
+
+*-SEQUENCE: 
+|  *-please
+|  *-(VB|VBS)
+
+
+*-SEQUENCE: 
+|  *-(i|it|that|they|you)
+|  *-would
+
+
+*-SEQUENCE: 
+|  *-(would|should)
+|  *-be
+
+
+*-SEQUENCE: 
+|  *-(i|only|just)
+|  *-(wish|request|suggestion)
+
+
+*-SEQUENCE: 
+|  *-wish
+|  *-(it|the|that|there|they|dropbox|ebay|evernote|mint|todoist|fitbit)
+
+
+*-SEQUENCE: 
+|  *-only
+|  *-thing
+
+
+*-SEQUENCE: 
+|  *-the
+|  *-only
+
+
+*-SEQUENCE: 
+|  *-if
+
+
+*-SEQUENCE: 
+|  *-just

@@ -1,0 +1,6 @@
+
+
+*-OR: 
+|  *-by
+|  *-(download|upload|sync|synchronize|open|access|save|store|edit|delete|remove|erase|create|pay|backup|drag|drop|import|export|share|copy|paste|clip)
+|  *-(bug|bugs|crash|crashes|error|problem|fix|issue)

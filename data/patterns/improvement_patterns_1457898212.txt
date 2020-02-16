@@ -1,0 +1,30 @@
+
+
+*-SEQUENCE: 
+|  *-5
+|  *-stars
+
+
+*-SEQUENCE: 
+|  *-please
+|  *-(stop|add)
+
+
+*-SEQUENCE: 
+|  *-i
+|  *-would
+
+
+*-SEQUENCE: 
+|  *-would
+|  *-be
+
+
+*-SEQUENCE: 
+|  *-i
+|  *-wish
+
+
+*-SEQUENCE: 
+|  *-wish
+|  *-it
